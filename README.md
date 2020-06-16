@@ -8,7 +8,7 @@ Author: Sathish Manthani**
 ![Weater](http://www.lakshyaholiday.com/img/weather-banner.jpg)
 
 ## Description:  
-This program fetches weather forecast data using OpenWeatherMap APIs.  
+This program fetches weather forecast data using [OpenWeatherMap APIs](https://openweathermap.org/).  
                It prompts user to enter a city name or zip code and API will be called with these parameters.  
                Error message is displayed the user if connection fails or input parameters are incorrect.  
                On success, weather forecast data is displayed for next 5 days in 3 hour intervals.  
