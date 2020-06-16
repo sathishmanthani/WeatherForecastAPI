@@ -1,9 +1,11 @@
 # OpenWeatherForecast API using Python  
  Fetching weather data using Open Weather Forecast API  
 
-Course Name: Introduction to Programming DSC510  
+**Course Name: Introduction to Programming DSC510  
 Date: 8/7/2019  
-Author: Sathish Manthani  
+Author: Sathish Manthani**  
+
+!(Weater)[http://www.lakshyaholiday.com/img/weather-banner.jpg]
 
 ## Description:  
 This program fetches weather forecast data using OpenWeatherMap APIs.  
